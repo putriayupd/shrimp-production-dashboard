@@ -1,5 +1,3 @@
-# shrimp-production-dashboard
-Interactive production monitoring dashboard built with Looker Studio for shrimp hatchery performance monitoring.
 # Shrimp Production Dashboard
 
 An interactive Business Intelligence dashboard developed using **Looker Studio** to monitor shrimp seed and broodstock production at the Balai Produksi Induk Udang Unggul dan Kekerangan (BPIU2K), Ministry of Marine Affairs and Fisheries of Indonesia.
